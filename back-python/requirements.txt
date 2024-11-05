@@ -1,0 +1,10 @@
+flask-cors
+flask
+requests
+fuzzywuzzy
+python-Levenshtein
+xmltodict
+bs4
+itsdangerous
+flask_apscheduler
+python-Levenshtein
